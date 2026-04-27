@@ -29,10 +29,11 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    position: absolute;
 }
 
 .popup{
-    width: 250px;
+    width: 350px;
     background: rgb(42, 55, 55);
     border-radius: 6px;
     position: absolute;
