@@ -91,7 +91,7 @@ html, body{
     display: flex;
     justify-content: center;
     position: absolute;
-    top: 10;
+    top: 50;
     background-color: rgb(42, 55, 55);
     padding: 1%;
     border-radius: 30px;
