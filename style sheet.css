@@ -25,7 +25,6 @@ html, body{
     min-height: -webkit-fill-available;
     min-height: 100dvh;
     background-image: url("sculk minecraft wallpaper.jpg");
-    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     overflow: hidden;
@@ -47,7 +46,7 @@ html, body{
     position: absolute;
     top: 55%;
     left: 50%;
-    transform: translate(-45%,-50%) scale(1);
+    transform: translate(-50%,-45%) scale(1);
     text-align: center;
     padding: 0 30px 30px;
     color: #ddd;
